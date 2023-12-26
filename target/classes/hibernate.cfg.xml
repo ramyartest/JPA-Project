@@ -33,5 +33,6 @@
 
         <!-- Mention annotated class -->
         <mapping class="RR.MobileApplication"/>
+        <mapping class="RR.User"/>
     </session-factory>
 </hibernate-configuration>
